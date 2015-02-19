@@ -1,0 +1,2008 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"doc",
+				"document"
+			],
+			[
+				"pb",
+				"padding-bottom"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"pos",
+				"pos-r	position: relative;"
+			],
+			[
+				"re",
+				"resize"
+			],
+			[
+				"o",
+				"outline"
+			],
+			[
+				"bg",
+				"bg+	background: ${1:#fff} url(${2}) ${3:0} ${4:0} ${5:no-repeat};"
+			],
+			[
+				"hr",
+				"href	Attr"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"thisForm_message_",
+				"thisForm_message_success"
+			],
+			[
+				"script",
+				"script	<script>"
+			],
+			[
+				"men",
+				"mensaje"
+			],
+			[
+				"lorem",
+				"lorem	HTML - Lorem Ipsum"
+			],
+			[
+				"sha",
+				"shadow_right"
+			],
+			[
+				"foo",
+				"footer_logo"
+			],
+			[
+				"me",
+				"method	Attr"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"gra",
+				"graph-bar"
+			],
+			[
+				"ma",
+				"maxlength	Attr"
+			],
+			[
+				"in",
+				"inherit"
+			],
+			[
+				"styel",
+				"style	Attr"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"media",
+				"Media"
+			],
+			[
+				"tx",
+				"text-align"
+			],
+			[
+				"style",
+				"style	Attr"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"fw",
+				"fw-br	font-weight: bolder;"
+			],
+			[
+				"stly",
+				"style	Attr"
+			],
+			[
+				"a",
+				"a	HTML - Anchor"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"tel",
+				"telefono"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"img",
+				"img_model"
+			],
+			[
+				"html",
+				"html5	Simple HTML5 Boilerplate"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"loca",
+				"location"
+			],
+			[
+				"header",
+				"header"
+			],
+			[
+				"va",
+				"value	Attr"
+			],
+			[
+				"messag",
+				"message"
+			],
+			[
+				"ms",
+				"mnsj"
+			],
+			[
+				"¡",
+				"¡Error"
+			],
+			[
+				"mail",
+				"mail"
+			],
+			[
+				"sub",
+				"subject2"
+			],
+			[
+				"title",
+				"title	Attr"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"image",
+				"image_modelo"
+			],
+			[
+				"ima",
+				"image_modelo"
+			],
+			[
+				"fiel",
+				"fieldnm_2"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"w",
+				"white-space"
+			],
+			[
+				"tra",
+				"transition	CSS - transition: ;"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"brder",
+				"border-right"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"bw",
+				"border-width"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"rgb",
+				"rgba"
+			],
+			[
+				"bo",
+				"both"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"co",
+				"content"
+			],
+			[
+				"pt",
+				"padding-top"
+			],
+			[
+				"br",
+				"break-word"
+			],
+			[
+				"wor",
+				"word-wrap"
+			],
+			[
+				"brea",
+				"word-break"
+			],
+			[
+				"ww",
+				"wow-b	word-wrap: break-word;"
+			],
+			[
+				"con",
+				"con	CSS - content: '';"
+			],
+			[
+				"td",
+				"td-u	text-decoration: underline;"
+			],
+			[
+				"import",
+				"important"
+			],
+			[
+				"wi",
+				"width	Attr"
+			],
+			[
+				"template",
+				"template_app"
+			],
+			[
+				"tr",
+				"transition	CSS - transition: ;"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"top",
+				"top-header"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"lstn",
+				"list-n	list-style-type: none;"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"lsn",
+				"list-n	list-style-type: none;"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"fix",
+				"fixed"
+			],
+			[
+				"_",
+				"__FILE__"
+			],
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"javas",
+				"javascript"
+			],
+			[
+				"as",
+				"asunto"
+			],
+			[
+				"Fussion",
+				"FussionGlobalStyle"
+			],
+			[
+				"value",
+				"Value"
+			],
+			[
+				"fr",
+				"fr_model_car"
+			],
+			[
+				"_P",
+				"_POST"
+			],
+			[
+				"la",
+				"label"
+			],
+			[
+				"fr_",
+				"fr_car_monthly_payment"
+			],
+			[
+				"pri",
+				"fr_car_price"
+			],
+			[
+				"hide",
+				"hidden"
+			],
+			[
+				"fr_p",
+				"fr_monthly_payment"
+			],
+			[
+				"car_se",
+				"car_select_name"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"funding_",
+				"funding_result_data"
+			],
+			[
+				"fu",
+				"fun	Function"
+			],
+			[
+				"su",
+				"success"
+			],
+			[
+				"res",
+				"respuesta2"
+			],
+			[
+				"c",
+				"concessionaires_search_models"
+			],
+			[
+				"ste",
+				"step-2-tel"
+			],
+			[
+				"step",
+				"step-2-lastname"
+			],
+			[
+				"v",
+				"v-v	visibility: visible;"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"open",
+				"openPanel"
+			],
+			[
+				"RE",
+				"reply_month"
+			],
+			[
+				"PRI",
+				"reply_price"
+			],
+			[
+				"g",
+				"grayscale"
+			],
+			[
+				"fil",
+				"filter"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"serv",
+				"servicios"
+			],
+			[
+				"s",
+				"static"
+			],
+			[
+				"visi",
+				"visible"
+			],
+			[
+				"input",
+				"input	input - hidden"
+			],
+			[
+				"reg",
+				"register_frm"
+			],
+			[
+				"email",
+				"email_re"
+			],
+			[
+				"fons",
+				"font-size"
+			],
+			[
+				"form",
+				"formRegister"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"ca",
+				"canControl"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "sx4-sedan.html",
+			"settings":
+			{
+				"buffer_size": 190331,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sx4-crossover.html",
+			"settings":
+			{
+				"buffer_size": 135154,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "swift.html",
+			"settings":
+			{
+				"buffer_size": 153054,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "swift-sport.html",
+			"settings":
+			{
+				"buffer_size": 125867,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "s-cross.html",
+			"settings":
+			{
+				"buffer_size": 177099,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "promociones.html",
+			"settings":
+			{
+				"buffer_size": 29493,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mustache.html",
+			"settings":
+			{
+				"buffer_size": 22126,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "legales.html",
+			"settings":
+			{
+				"buffer_size": 23006,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "kizashi.html",
+			"settings":
+			{
+				"buffer_size": 157852,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 32748,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "grand-vitara.html",
+			"settings":
+			{
+				"buffer_size": 165389,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "contacto.html",
+			"settings":
+			{
+				"buffer_size": 34723,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "concesionarias.html",
+			"settings":
+			{
+				"buffer_size": 41098,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ciaz.html",
+			"settings":
+			{
+				"buffer_size": 95786,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "catalogo.html",
+			"settings":
+			{
+				"buffer_size": 32944,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "aviso-privacidad.html",
+			"settings":
+			{
+				"buffer_size": 29419,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "razones/index.html",
+			"settings":
+			{
+				"buffer_size": 30080,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "grupo/index.html",
+			"settings":
+			{
+				"buffer_size": 23108,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "garantia-suzuki/index.html",
+			"settings":
+			{
+				"buffer_size": 39887,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "concesionarias/index.html",
+			"settings":
+			{
+				"buffer_size": 41269,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "concesionarias/suzuki-colima.html",
+			"settings":
+			{
+				"buffer_size": 41265,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "concesionarias/suzuki-lopez-mateos.html",
+			"settings":
+			{
+				"buffer_size": 41268,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "concesionarias/suzuki-vallarta.html",
+			"settings":
+			{
+				"buffer_size": 41269,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "api/index.html",
+			"settings":
+			{
+				"buffer_size": 22513,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "contacto.php",
+			"settings":
+			{
+				"buffer_size": 3017,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "concesionarias/suzuki-morelia.html",
+			"settings":
+			{
+				"buffer_size": 41255,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 287.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/MAMP/htdocs/suzuki-vallarta",
+		"/Applications/MAMP/htdocs/suzuki-vallarta/api",
+		"/Applications/MAMP/htdocs/suzuki-vallarta/concesionarias",
+		"/Applications/MAMP/htdocs/suzuki-vallarta/garantia-suzuki",
+		"/Applications/MAMP/htdocs/suzuki-vallarta/grupo",
+		"/Applications/MAMP/htdocs/suzuki-vallarta/razones"
+	],
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/land-rover/index.html",
+		"/Applications/MAMP/htdocs/land-rover/lib/scripts.js",
+		"/Applications/MAMP/htdocs/land-rover/vehiculos/land_rover_lr2.html",
+		"/Applications/MAMP/htdocs/land-rover/vehiculos.html",
+		"/Applications/MAMP/htdocs/land-rover/css/style-nav.css",
+		"/Users/fjcorona/Desktop/landrover&jaguar/landrover.css",
+		"/Applications/MAMP/htdocs/land-rover/css/style-tab-filter-nav.css",
+		"/Applications/MAMP/htdocs/land-rover/css/style-headers-sliders-dividers.css",
+		"/Applications/MAMP/htdocs/land-rover/css/style-selector-vehicles.css",
+		"/Applications/MAMP/htdocs/land-rover/css/style-model-selector.css",
+		"/Applications/MAMP/htdocs/land-rover/vehiculos/range-rover/ficha-tecnica.html",
+		"/Applications/MAMP/htdocs/land-rover/vehiculos/discovery/ficha-tecnica.html",
+		"/Applications/MAMP/htdocs/land-rover/vehiculos/land-rover-lr2/ficha-tecnica.html",
+		"/Applications/MAMP/htdocs/land-rover/vehiculos/range-rover-evoque/ficha-tecnica.html",
+		"/Applications/MAMP/htdocs/land-rover/vehiculos/defender/ficha-tecnica.html",
+		"/Applications/MAMP/htdocs/land-rover/vehiculos/defender.html",
+		"/Applications/MAMP/htdocs/land-rover/vehiculos/discovery.html",
+		"/Applications/MAMP/htdocs/land-rover/vehiculos/range_rover_sport.html",
+		"/Applications/MAMP/htdocs/land-rover/vehiculos/range_rover_evoque.html",
+		"/Applications/MAMP/htdocs/land-rover/vehiculos/range_rover.html",
+		"/Applications/MAMP/htdocs/land-rover/land-rover.sublime-project",
+		"/Applications/MAMP/htdocs/land-rover/land-rover.sublime-workspace",
+		"/Applications/MAMP/htdocs/land-rover/vehiculos/land-rover.sublime-project",
+		"/Applications/MAMP/htdocs/suzuki-gdl/old/suzukivallarta/index.html",
+		"/Applications/MAMP/htdocs/land-rover/lib/script-libs/twitterfetcher.min.js",
+		"/Applications/MAMP/htdocs/land-rover/css/import.css",
+		"/Applications/MAMP/htdocs/land-rover/css/dualFrame-Carousel.css",
+		"/Applications/MAMP/htdocs/proyect/css/import.css",
+		"/Applications/MAMP/htdocs/proyect/css/dualFrame-Carousel.css",
+		"/Applications/MAMP/htdocs/proyect/index.html",
+		"/Applications/MAMP/htdocs/land-rover/servicio.html",
+		"/Applications/MAMP/htdocs/land-rover/contacto.html",
+		"/Applications/MAMP/htdocs/land-rover/css/style-global-helper-classes.css",
+		"/Applications/MAMP/htdocs/land-rover/css/style-blog.css",
+		"/Applications/MAMP/htdocs/land-rover/css/style-text-based-sections.css",
+		"/Applications/MAMP/htdocs/eurocavsa/landrover-v2/vehicles/range-rover/index.html",
+		"/Applications/MAMP/htdocs/eurocavsa/landrover-v2/resources/public/css/style.css",
+		"/Applications/MAMP/htdocs/land-rover/css/style-royal-slider.css",
+		"/Applications/MAMP/htdocs/land-rover/news.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/repositorios/autos.suzuki.mexico.suzuki.js",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukivallarta/scripts/suzuki/suzuki.js",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/swift.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/swift-sport.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/s-cross.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/promociones.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/mustache.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/legales.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/kizashi.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/index.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/grand-vitara.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/concesionarias.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/api/index.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/concesionarias/index.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/concesionarias/suzuki-colima.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/concesionarias/suzuki-lopez-mateos.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/concesionarias/suzuki-morelia.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/concesionarias/suzuki-vallarta.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/garantia-suzuki/index.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/grupo/index.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/razones/index.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/aviso-privacidad.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/catalogo.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/ciaz.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukicolima/ciaz.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukimorelia/ciaz.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukivallarta/ciaz.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/scripts/sections/home/home.js",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukicolima/api/index.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukicolima/concesionarias/index.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukicolima/concesionarias/suzuki-colima.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukicolima/garantia-suzuki/index.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukicolima/grupo/index.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukicolima/aviso-privacidad.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukicolima/catalogo.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukicolima/concesionarias.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukicolima/contacto.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukicolima/grand-vitara.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukicolima/index.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukicolima/legales.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukicolima/mustache.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukicolima/promociones.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukicolima/s-cross.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukicolima/swift-sport.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukicolima/swift.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukimorelia/catalogo.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukimorelia/concesionarias.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukimorelia/concesionarias/index.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukimorelia/api/index.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukimorelia/concesionarias/suzuki-colima.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukimorelia/concesionarias/suzuki-lopez-mateos.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukimorelia/concesionarias/suzuki-morelia.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukimorelia/concesionarias/suzuki-vallarta.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukimorelia/garantia-suzuki/index.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukimorelia/grupo/index.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukimorelia/razones/index.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukimorelia/aviso-privacidad.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukimorelia/contacto.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukimorelia/grand-vitara.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukimorelia/index.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukimorelia/kizashi.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukimorelia/legales.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukimorelia/mustache.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukimorelia/promociones.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukimorelia/s-cross.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukimorelia/swift-sport.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukimorelia/swift.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukivallarta/api/index.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukivallarta/concesionarias/index.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukivallarta/concesionarias/suzuki-colima.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukivallarta/concesionarias/suzuki-lopez-mateos.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukivallarta/concesionarias/suzuki-morelia.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukivallarta/concesionarias/suzuki-vallarta.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukivallarta/garantia-suzuki/index.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukivallarta/grupo/index.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukivallarta/razones/index.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukivallarta/aviso-privacidad.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukivallarta/catalogo.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukivallarta/concesionarias.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukivallarta/contacto.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukivallarta/grand-vitara.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukivallarta/index.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukivallarta/kizashi.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukivallarta/legales.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukivallarta/mustache.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukivallarta/promociones.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukivallarta/s-cross.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukivallarta/swift-sport.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukivallarta/swift.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Applications/MAMP/htdocs/land-rover",
+			"/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/css",
+			"/Applications/MAMP/htdocs/proyect_2/css/suzuki",
+			"/Applications/MAMP/htdocs/proyect_2/css/sections",
+			"/Applications/MAMP/htdocs/proyect_2/css",
+			"/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/css/suzuki",
+			"/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/css",
+			"/Applications/MAMP/htdocs/eurocavsa/landrover-v2/Images",
+			"/Applications/MAMP/htdocs/admin/js",
+			"/Applications/MAMP/htdocs/vex_crm_clone",
+			"/Applications/MAMP/htdocs/vex_crm_clone/templates",
+			"/Applications/MAMP/htdocs/moss_app",
+			"/Applications/MAMP/htdocs/ohr",
+			"/Applications/MAMP/htdocs/ohr/js",
+			"/Applications/MAMP/htdocs/ohr",
+			"/Applications/MAMP/htdocs/ohr/js",
+			"/Applications/MAMP/htdocs/ohr",
+			"/Applications/MAMP/htdocs/dkh_crm",
+			"/Applications/MAMP/htdocs/dkh_crm/api",
+			"/Applications/MAMP/htdocs/dkh_crm/api/v2",
+			"/Applications/MAMP/htdocs/dkh_crm",
+			"/Applications/MAMP/htdocs/dkh_crm/js",
+			"/Applications/MAMP/htdocs/dkh_crm",
+			"/Applications/MAMP/htdocs/dkh_crm/js",
+			"/Applications/MAMP/htdocs/dkh_crm",
+			"/Applications/MAMP/htdocs/vex_crm/js"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"span",
+			"https://twitter.com/intent/tweet",
+			"RANGE ROVER",
+			"L319_15_EXT_LOC18GS_01_ms_1_295-89087_",
+			"89087_450x259",
+			"L319_15_EXT_LOC18SE_01_ms_3_295-89083_",
+			"discovery",
+			"A powerful SUV Discovery SE in Loire Blue.",
+			"discovery",
+			"L319_15_EXT_LOC13_01_dfc_fs_295-88866_1600x900",
+			"range-rover-evoque",
+			"L319_14_EXT_LOC34_01_hc_2_295-88845_900x586",
+			"L319_14_EXT_LOC34_01_hc_1_295-88846_1600x900",
+			"L319_15_EXT_LOC42_01_hc_3_295-96274_650x277",
+			"L319_15_EXT_LOC42_01_hc_2_295-96270_900x586",
+			"discovery",
+			"L319_15_EXT_LOC42_01_hc_1_295-96266_1600x900",
+			"vehiculos/defender/",
+			"DISCOVERY",
+			"vehicles/defender/celebrate-defender.html",
+			"vehicles/discovery/finance-offers/index.html",
+			"-overlay",
+			"L319_15_EXT_LOC18_01_ms_3_295-89100_182x169.jpg?v=1",
+			"Evoque Dynamic, Compact SUV",
+			"range-rover-evoque/",
+			"Evoque Pure, Bold Design",
+			"range-rover-evoque",
+			"RANGE ROVER EVOQUE",
+			"range-rover-evoque",
+			"RANGE ROVER EVOQUE",
+			"Range Rover Evoque",
+			"RANGE ROVER EVOQUE",
+			"/Images/",
+			"-sport",
+			"sport",
+			"_900x586",
+			"rr_2_1600x900",
+			"rr_1_1600x900",
+			"../..",
+			"/Images/",
+			"Innovative Luxury SUV: Range Rover Vogue in Causeway Grey",
+			"<li",
+			"• ",
+			"sport",
+			"/Images/",
+			"TabFilter",
+			".ModelSelector.inPageModelSelector.withTabs .TabFilter",
+			"TabFilter",
+			"rover-sport",
+			"L494_15_EXT_LOC02_dfc_fs_295-88215_1600x900",
+			"/Images/",
+			"/images/",
+			"/Images/",
+			"#landrover .DualFrameCarousel .primaryLinkWithStyle",
+			": after",
+			": before",
+			": focus",
+			": hover",
+			"vehiculos/range-rover-evoque/",
+			"vehiculos/discovery/",
+			"RANGE ROVER SPORT</h1>",
+			"data-alt=\"RANGE ROVER SPORT\"",
+			"data-alt=\"Range Rover Sport",
+			"data-alt=\"RANGE ROVER SPORT",
+			"Range Rover Sport",
+			"RANGE ROVER SPORT",
+			"Range Rover Sport",
+			"RANGE ROVER SPORT",
+			".background-image-holder .background-image",
+			"background-image-holder",
+			"../img/slider/pictures/",
+			".VehicleSelectorWrapper .el .vehicleWrapper, .VehicleSelectorWrapper .el .modelWrapper",
+			"1px solid #222",
+			"393939",
+			"/resources/public/images/texture-darkest-grey.png",
+			"el: ",
+			": after",
+			": ",
+			".ModelSelector .selectorContentLink {\n	padding-top: 5px;\n	padding-bottom: 5px;\n}",
+			".VehicleSelectorWrapper .el .selectorContent",
+			"/Images/",
+			"width: 25%;",
+			"el: ",
+			" style=\"height: 855px;\"",
+			": hover",
+			".ModelSelector .tabContent[data-total=\"4\"] .el",
+			"/Images/",
+			"../img/slider/pictures/",
+			"Innovative Luxury SUV: Range Rover Vogue in Causeway Grey",
+			"The sophisticated design of the Causeway Grey Range Rover Vogue SE",
+			"The iconic design of the Range Rover Autobiography",
+			"overview-m01-04.07081535",
+			"-overlay_",
+			"-overlay",
+			"rr_2_",
+			"rr_1_",
+			"range-rover/",
+			"RANGE ROVER",
+			"range-rover-sport/",
+			"_1600x900",
+			"var anio = '2014';",
+			"Autos Suzuki Guadalajara",
+			"Autos Suzuki Colima",
+			"19.2505,-103.71",
+			"Autos suzuki Colima",
+			"Autos suzuki Morelia",
+			"Autos suzuki Vallarta",
+			"Autos suzuki López Mateos",
+			"Autos suziki López Mateos",
+			"Autos suzuki López Mateos",
+			"../../",
+			"src=\"../../",
+			"href=\"../../",
+			"promociones",
+			"range-rover",
+			"media",
+			"../../",
+			"src=\"../../",
+			"href=\"../../",
+			"images/",
+			"HeroCarousel",
+			"lt-ie9",
+			"img/slider/",
+			"100%",
+			"HeroC",
+			"295-83457",
+			"img/slider/",
+			"L319_15_EXT_LOC06_01_295-147644_"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Suzuki Autos Guadalajara",
+			"Suzuki Autos Colima",
+			"Suzuki Autos Morelia",
+			"Suzuki Autos Vallarta",
+			"Suzuki Autos López Mateos",
+			"../../img/texture-grey-mist-light.png",
+			"img/texture-grey-mist-light.png",
+			"../../img/texture-grey-mist-light.png",
+			"<!--<div class=\"concessionaire-column info\" id=\"concessionaires-data\">\n                    <div class=\"content\">\n                        <div class=\"concessionaire-close-box\">\n                            <a href=\"#close\" class=\"concessionaire-close\">\n                                <span>close</span>\n                            </a>\n                        </div>\n                        <div class=\"concessionaire-data-wrapper\">\n                            <div class=\"wrapper-title\">\n                                <div class=\"data title\">\n                                    <h1 id=\"concessionaire-title\">Suzuki López Mateos</h1>\n                                </div>\n                            </div>\n                            <div class=\"wrapper-data\">\n                                <div class=\"data address\">\n                                    <div class=\"section-name\">Dirección</div>\n                                    <address id=\"concessionaire-address\">\n                                        Av. López Mateos Núm. 5654 Col. Arboledas, Zapopan, Jalisco.\n                                    </address>\n                                    <p>CP: <span id=\"concessionaire-zip\">44200</span></p>\n                                </div>\n                                <div class=\"data phone\">\n                                    <div class=\"section-name\">Teléfono</div>\n                                    <a id=\"concessionaire-phone\" href=\"call:01-(33)-3884-8200\" target=\"_blank\">01-(33)-3884-8200</a>\n                                </div>\n                                <div class=\"data website\" id=\"concessionaire-website-wrapper\">\n                                    <div class=\"section-name\">Sitio Web</div>\n                                    <p><a id=\"concessionaire-website\" href=\"#\" target=\"_blank\">Sitio Web</a></p>\n                                </div>\n                            </div>\n                            <div class=\"wrapper-image\">\n                                <div class=\"big-image\">\n                                    <img id=\"concessionaire-image\" src=\"../images/sections/concessionaires/previews/aguascalientes-big.jpg\" alt=\"Suzuki Aguascalientes\" title=\"Suzuki Aguascalientes\" />\n                                </div>\n                            </div>\n                            <div class=\"wrapper-test-drive\">\n                                <div class=\"data test-drive\">\n                                    <a href=\"#prueba-de-manejo\" id=\"open-test-drive\">Agenda tu prueba de manejo</a>\n                                </div>\n                                <div class=\"view-more\"><a href=\"#more\" class=\"view-all-concessionaires\">Ver todas las concesionarias</a></div>\n                                <a href=\"#\" id=\"back-list-concessionaires\">Ver todas las concesionarias</a>\n                            </div>\n                        </div>\n                    </div>\n                </div>-->",
+			"../img/romana/romana-400x250/romana-black-out/romana-black-out-1.jpg",
+			"Recámara",
+			"<li>\n									<!--<li class=\"dropdown-submenu\">-->\n										<a href=\"cocina_id1.html\">Cortinas para Cocina</a>\n										<!--<a data-toggle=\"dropdown\" class=\"active dropdown-toggle\">Cortinas para Cocina</a>-->\n										<!--<ul class=\"dropdown-menu\">\n											<li class=\"active\"><a href=\"cocina_id1.html\" class=\"ajax_right\">Cocina 1</a></li>\n											<li class=\"\"><a href=\"cocina_id2.html\" class=\"ajax_right\">Cocina 2</a></li>\n											<li class=\"\"><a href=\"cocina_id3.html\" class=\"ajax_right\">Cocina 3</a></li>\n											<li class=\"\"><a href=\"cocina_id4.html\" class=\"ajax_right\">Cocina 4</a></li>\n											<li class=\"\"><a href=\"cocina_id5.html\" class=\"ajax_right\">Cocina 5</a></li>\n											<li class=\"\"><a href=\"cocina_id6.html\" class=\"ajax_right\">Cocina 6</a></li>\n											<li class=\"\"><a href=\"cocina_id7.html\" class=\"ajax_right\">Cocina 7</a></li>\n										</ul>-->\n									</li>\n									<li>\n									<!--<li class=\"dropdown-submenu\">-->\n										<a href=\"../comedor/comedor_id1.html\">Cortinas para Comedor</a>\n										<!--<a data-toggle=\"dropdown\" class=\"dropdown-toggle\">Cortinas para Comedor</a>-->\n										<!--<ul class=\"dropdown-menu\">\n											<li class=\"\"><a href=\"../comedor/comedor_id1.html\" class=\"ajax_right\">Comedor 1</a></li>\n											<li class=\"\"><a href=\"../comedor/comedor_id2.html\" class=\"ajax_right\">Comedor 2</a></li>\n											<li class=\"\"><a href=\"../comedor/comedor_id3.html\" class=\"ajax_right\">Comedor 3</a></li>\n											<li class=\"\"><a href=\"../comedor/comedor_id4.html\" class=\"ajax_right\">Comedor 4</a></li>\n											<li class=\"\"><a href=\"../comedor/comedor_id5.html\" class=\"ajax_right\">Comedor 5</a></li>\n											<li class=\"\"><a href=\"../comedor/comedor_id6.html\" class=\"ajax_right\">Comedor 6</a></li>\n											<li class=\"\"><a href=\"../comedor/comedor_id7.html\" class=\"ajax_right\">Comedor 7</a></li>\n										</ul>-->\n									</li>\n									<li>\n									<!--<li class=\"dropdown-submenu\">-->\n										<a href=\"../oficina/oficina_id1.html\">Cortinas para Oficina</a>\n										<!--<a data-toggle=\"dropdown\" class=\"dropdown-toggle\">Cortinas para Oficina</a>-->\n										<!--<ul class=\"dropdown-menu\">\n											<li class=\"\"><a href=\"../oficina/oficina_id1.html\" class=\"ajax_right\">Oficina 1</a></li>\n											<li class=\"\"><a href=\"../oficina/oficina_id2.html\" class=\"ajax_right\">Oficina 2</a></li>\n											<li class=\"\"><a href=\"../oficina/oficina_id3.html\" class=\"ajax_right\">Oficina 3</a></li>\n											<li class=\"\"><a href=\"../oficina/oficina_id4.html\" class=\"ajax_right\">Oficina 4</a></li>\n											<li class=\"\"><a href=\"../oficina/oficina_id5.html\" class=\"ajax_right\">Oficina 5</a></li>\n											<li class=\"\"><a href=\"../oficina/oficina_id6.html\" class=\"ajax_right\">Oficina 6</a></li>\n											<li class=\"\"><a href=\"../oficina/oficina_id7.html\" class=\"ajax_right\">Oficina 7</a></li>\n										</ul>-->\n									</li>\n									<li>\n									<!--<li class=\"dropdown-submenu\">-->\n										<a href=\"../recamara/recamara_id1.html\">Cortinas para Recamara</a>\n										<!--<a data-toggle=\"dropdown\" class=\"dropdown-toggle\">Cortinas para Recamara</a>-->\n										<!--<ul class=\"dropdown-menu\">\n											<li class=\"\"><a href=\"../recamara/recamara_id1.html\" class=\"ajax_right\">Recamara 1</a></li>\n											<li class=\"\"><a href=\"../recamara/recamara_id2.html\" class=\"ajax_right\">Recamara 2</a></li>\n											<li class=\"\"><a href=\"../recamara/recamara_id3.html\" class=\"ajax_right\">Recamara 3</a></li>\n											<li class=\"\"><a href=\"../recamara/recamara_id4.html\" class=\"ajax_right\">Recamara 4</a></li>\n											<li class=\"\"><a href=\"../recamara/recamara_id5.html\" class=\"ajax_right\">Recamara 5</a></li>\n											<li class=\"\"><a href=\"../recamara/recamara_id6.html\" class=\"ajax_right\">Recamara 6</a></li>\n											<li class=\"\"><a href=\"../recamara/recamara_id7.html\" class=\"ajax_right\">Recamara 7</a></li>\n											<li class=\"\"><a href=\"../recamara/recamara_id8.html\" class=\"ajax_right\">Recamara 8</a></li>\n										</ul>-->\n									</li>\n									<li>\n									<!--<li class=\"dropdown-submenu\">-->\n										<a href=\"../sala/sala_id1.html\">Cortinas para Sala</a>\n										<!--<a data-toggle=\"dropdown\" class=\"dropdown-toggle\">Cortinas para Sala</a>-->\n										<!--<ul class=\"dropdown-menu\">\n											<li class=\"\"><a href=\"../sala/sala_id1.html\" class=\"ajax_right\">Sala 1</a></li>\n											<li class=\"\"><a href=\"../sala/sala_id2.html\" class=\"ajax_right\">Sala 2</a></li>\n											<li class=\"\"><a href=\"../sala/sala_id3.html\" class=\"ajax_right\">Sala 3</a></li>\n											<li class=\"\"><a href=\"../sala/sala_id4.html\" class=\"ajax_right\">Sala 4</a></li>\n											<li class=\"\"><a href=\"../sala/sala_id5.html\" class=\"ajax_right\">Sala 5</a></li>\n											<li class=\"\"><a href=\"../sala/sala_id6.html\" class=\"ajax_right\">Sala 6</a></li>\n											<li class=\"\"><a href=\"../sala/sala_id7.html\" class=\"ajax_right\">Sala 7</a></li>\n											<li class=\"\"><a href=\"../sala/sala_id8.html\" class=\"ajax_right\">Sala 8</a></li>\n										</ul>-->\n									</li>",
+			"	    <title>CORTINAS.MX</title>\n	</head>\n	<body class=\"no-overflow\">\n		<div class=\"fullscreen_block hided page-container\">\n			<div class=\"top-band\">\n				<div class=\"navbar navbar-fixed-top\">\n					<div class=\"navbar-header\">\n						<button type=\"button\" class=\"navbar-toggle\" data-toggle=\"collapse\" data-target=\".navbar-collapse\">\n							<span class=\"sr-only\">Toggle navigation</span>\n							<span class=\"icon-bar\"></span>\n							<span class=\"icon-bar\"></span>\n							<span class=\"icon-bar\"></span>\n						</button>\n						<a href=\"../../	\" class=\"navbar-brand\">\n							<img src=\"../../img/logo.png\" alt=\"CORTINAS\">CORTINAS.MX\n							<!-- span>photo agency</span-->\n						</a>\n					</div>\n					<div class=\"navbar-collapse collapse navbar-right\">\n						<ul class=\"nav navbar-nav\">\n							<li class=\"\"><a href=\"../../\">INICIO</a></li>\n							<li class=\"active dropdown\">\n								<a data-toggle=\"dropdown\" class=\"dropdown-toggle\" href=\"#\">CORTINAS <b class=\"caret\"></b></a>\n								<ul class=\"dropdown-menu\">\n									<li class=\"dropdown-submenu\">\n										<a data-toggle=\"dropdown\" class=\"dropdown-toggle\">Cortinas para Cocina</a>\n										<ul class=\"dropdown-menu\">\n											<li class=\"\"><a href=\"../cocina/cocina_id1.html\" class=\"ajax_right\">Cocina 1</a></li>\n											<li class=\"\"><a href=\"../cocina/cocina_id2.html\" class=\"ajax_right\">Cocina 2</a></li>\n											<li class=\"\"><a href=\"../cocina/cocina_id3.html\" class=\"ajax_right\">Cocina 3</a></li>\n											<li class=\"\"><a href=\"../cocina/cocina_id4.html\" class=\"ajax_right\">Cocina 4</a></li>\n											<li class=\"\"><a href=\"../cocina/cocina_id5.html\" class=\"ajax_right\">Cocina 5</a></li>\n											<li class=\"\"><a href=\"../cocina/cocina_id6.html\" class=\"ajax_right\">Cocina 6</a></li>\n											<li class=\"\"><a href=\"../cocina/cocina_id7.html\" class=\"ajax_right\">Cocina 7</a></li>\n										</ul>\n									</li>\n									<li class=\"dropdown-submenu\">\n										<a data-toggle=\"dropdown\" class=\"dropdown-toggle\">Cortinas para Comedor</a>\n										<ul class=\"dropdown-menu\">\n											<li class=\"\"><a href=\"../comedor/comedor_id1.html\" class=\"ajax_right\">Comedor 1</a></li>\n											<li class=\"\"><a href=\"../comedor/comedor_id2.html\" class=\"ajax_right\">Comedor 2</a></li>\n											<li class=\"\"><a href=\"../comedor/comedor_id3.html\" class=\"ajax_right\">Comedor 3</a></li>\n											<li class=\"\"><a href=\"../comedor/comedor_id4.html\" class=\"ajax_right\">Comedor 4</a></li>\n											<li class=\"\"><a href=\"../comedor/comedor_id5.html\" class=\"ajax_right\">Comedor 5</a></li>\n											<li class=\"\"><a href=\"../comedor/comedor_id6.html\" class=\"ajax_right\">Comedor 6</a></li>\n											<li class=\"\"><a href=\"../comedor/comedor_id7.html\" class=\"ajax_right\">Comedor 7</a></li>\n										</ul>\n									</li>\n									<li class=\"dropdown-submenu\">\n										<a data-toggle=\"dropdown\" class=\"dropdown-toggle\">Cortinas para Oficina</a>\n										<ul class=\"dropdown-menu\">\n											<li class=\"\"><a href=\"../oficina/oficina_id1.html\" class=\"ajax_right\">Oficina 1</a></li>\n											<li class=\"\"><a href=\"../oficina/oficina_id2.html\" class=\"ajax_right\">Oficina 2</a></li>\n											<li class=\"\"><a href=\"../oficina/oficina_id3.html\" class=\"ajax_right\">Oficina 3</a></li>\n											<li class=\"\"><a href=\"../oficina/oficina_id4.html\" class=\"ajax_right\">Oficina 4</a></li>\n											<li class=\"\"><a href=\"../oficina/oficina_id5.html\" class=\"ajax_right\">Oficina 5</a></li>\n											<li class=\"\"><a href=\"../oficina/oficina_id6.html\" class=\"ajax_right\">Oficina 6</a></li>\n											<li class=\"\"><a href=\"../oficina/oficina_id7.html\" class=\"ajax_right\">Oficina 7</a></li>\n										</ul>\n									</li>\n									<li class=\"dropdown-submenu\">\n										<a data-toggle=\"dropdown\" class=\" dropdown-toggle\">Cortinas para Recamara</a>\n										<ul class=\"dropdown-menu\">\n											<li class=\"\"><a href=\"../recamara/recamara_id1.html\" class=\"ajax_right\">Recamara 1</a></li>\n											<li class=\"\"><a href=\"../recamara/recamara_id2.html\" class=\"ajax_right\">Recamara 2</a></li>\n											<li class=\"\"><a href=\"../recamara/recamara_id3.html\" class=\"ajax_right\">Recamara 3</a></li>\n											<li class=\"\"><a href=\"../recamara/recamara_id4.html\" class=\"ajax_right\">Recamara 4</a></li>\n											<li class=\"\"><a href=\"../recamara/recamara_id5.html\" class=\"ajax_right\">Recamara 5</a></li>\n											<li class=\"\"><a href=\"../recamara/recamara_id6.html\" class=\"ajax_right\">Recamara 6</a></li>\n											<li class=\"\"><a href=\"../recamara/recamara_id7.html\" class=\"ajax_right\">Recamara 7</a></li>\n											<li class=\"\"><a href=\"../recamara/recamara_id8.html\" class=\"ajax_right\">Recamara 8</a></li>\n										</ul>\n									</li>\n									<li class=\"dropdown-submenu\">\n										<a data-toggle=\"dropdown\" class=\"dropdown-toggle\">Cortinas para Sala</a>\n										<ul class=\"dropdown-menu\">\n											<li class=\"\"><a href=\"sala_id1.html\" class=\"ajax_right\">Sala 1</a></li>\n											<li class=\"\"><a href=\"sala_id2.html\" class=\"ajax_right\">Sala 2</a></li>\n											<li class=\"\"><a href=\"sala_id3.html\" class=\"ajax_right\">Sala 3</a></li>\n											<li class=\"\"><a href=\"sala_id4.html\" class=\"ajax_right\">Sala 4</a></li>\n											<li class=\"\"><a href=\"sala_id5.html\" class=\"ajax_right\">Sala 5</a></li>\n											<li class=\"\"><a href=\"sala_id6.html\" class=\"ajax_right\">Sala 6</a></li>\n											<li class=\"\"><a href=\"sala_id7.html\" class=\"ajax_right\">Sala 7</a></li>\n											<li class=\"\"><a href=\"sala_id8.html\" class=\"ajax_right\">Sala 8</a></li>\n										</ul>\n									</li>\n								</ul>\n							</li>\n							<li><a href=\"../../contacto.html\" class=\"ajax_right\">CONTACTO</a></li>\n						</ul>\n					</div><!-- /.navbar-collapse -->\n				</div>\n			</div>\n		    <div id=\"container\" class=\"left\">\n				<div id=\"content\">\n					<div class=\"content_inner\">\n						<div id=\"ajax-l\">\n							<div class=\"nivoSlider itemx2\">\n								<iframe width=\"560\" height=\"315\" src=\"//www.youtube-nocookie.com/embed/NYH69MXIsn4\" frameborder=\"0\" allowfullscreen></iframe>\n							</div>\n							<!-- ready -->\n								<div class=\"item\"><!-- cocina id1 -->\n									<div class=\"image\">\n										<div>\n											<div class=\"mask\">\n												<div>\n													<div class=\"name\">CORTINAS - COCINA</div>\n													<div class=\"actions\">\n														<a href=\"../../productos-gallery/cocina/cocina_id1.html\" class=\"desc_view ajax_right icon-search\"></a>\n													</div>\n											  	</div>\n											</div>\n											<img src=\"../../productos/cocina-400x250/cocina-1.jpg\" alt=\"cort-coc1\">\n										</div>\n									</div>\n								</div>\n								<div class=\"item\"><!-- comendor id1 -->\n									<div class=\"image\">\n										<div>\n											<div class=\"mask\">\n												<div>\n													<div class=\"name\">CORTINAS - COMEDOR</div>\n													<div class=\"actions\">\n														<a href=\"../../productos-gallery/comedor/comedor_id1.html\" class=\"desc_view ajax_right icon-search\"></a>\n													</div>\n											  	</div>\n											</div>\n											<img src=\"../../productos/comedor-400x250/comedor-1.jpg\" alt=\"cort-com1\">\n										</div>\n									</div>\n								</div>\n								<div class=\"item\"><!-- oficina id1 -->\n									<div class=\"image\">\n										<div>\n											<div class=\"mask\">\n												<div>\n													<div class=\"name\">CORTINAS - OFICINA</div>\n													<div class=\"actions\">\n														<a href=\"../../productos-gallery/oficina/oficina_id1.html\" class=\"desc_view ajax_right icon-search\"></a>\n													</div>\n											  	</div>\n											</div>\n											<img src=\"../../productos/oficina-400x250/oficina-1.jpg\" alt=\"cort-ofi1\">\n										</div>\n									</div>\n								</div>\n								<div class=\"item\"><!-- recamara id1 -->\n									<div class=\"image\">\n										<div>\n											<div class=\"mask\">\n												<div>\n													<div class=\"name\">CORTINAS - RECAMARA</div>\n													<div class=\"actions\">\n														<a href=\"../../productos-gallery/recamara/recamara_id1.html\" class=\"desc_view ajax_right icon-search\"></a>\n													</div>\n											  	</div>\n											</div>\n											<img src=\"../../productos/recamara-400x250/recamara-1.jpg\" alt=\"cort-rec1\">\n										</div>\n									</div>\n								</div>\n								<div class=\"item\"><!-- sala id1 -->\n									<div class=\"image\">\n										<div>\n											<div class=\"mask\">\n												<div>\n													<div class=\"name\">CORTINAS - SALA</div>\n													<div class=\"actions\">\n														<a href=\"../../productos-gallery/sala/sala_id1.html\" class=\"desc_view ajax_right icon-search\"></a>\n													</div>\n											  	</div>\n											</div>\n											<img src=\"../../productos/sala-400x250/sala-1.jpg\" alt=\"cort-sal1\">\n										</div>\n									</div>\n								</div>\n								<div class=\"item\"><!-- cocina id4 -->\n									<div class=\"image\">\n										<div>\n											<div class=\"mask\">\n												<div>\n													<div class=\"name\">CORTINAS - COCINA</div>\n													<div class=\"actions\">\n														<a href=\"../../productos-gallery/cocina/cocina_id4.html\" class=\"desc_view ajax_right icon-search\"></a>\n													</div>\n											  	</div>\n											</div>\n											<img src=\"../../productos/cocina-400x250/cocina-4.jpg\" alt=\"cort-coc4\">\n										</div>\n									</div>\n								</div>\n								<div class=\"item\"><!-- comendor id6 -->\n									<div class=\"image\">\n										<div>\n											<div class=\"mask\">\n												<div>\n													<div class=\"name\">CORTINAS - COMEDOR</div>\n													<div class=\"actions\">\n														<a href=\"../../productos-gallery/comedor/comedor_id6.html\" class=\"desc_view ajax_right icon-search\"></a>\n													</div>\n											  	</div>\n											</div>\n											<img src=\"../../productos/comedor-400x250/comedor-6.jpg\" alt=\"cort-com6\">\n										</div>\n									</div>\n								</div>\n								<div class=\"item\"><!-- sala id3 -->\n									<div class=\"image\">\n										<div>\n											<div class=\"mask\">\n												<div>\n													<div class=\"name\">CORTINAS - SALA</div>\n													<div class=\"actions\">\n														<a href=\"../../productos-gallery/sala/sala_id3.html\" class=\"desc_view ajax_right icon-search\"></a>\n													</div>\n											  	</div>\n											</div>\n											<img src=\"../../productos/sala-400x250/sala-3.jpg\" alt=\"cort-sal3\">\n										</div>\n									</div>\n								</div>\n								<div class=\"item\"><!-- recamara id3 -->\n									<div class=\"image\">\n										<div>\n											<div class=\"mask\">\n												<div>\n													<div class=\"name\">CORTINAS - RECAMARA</div>\n													<div class=\"actions\">\n														<a href=\"../../productos-gallery/recamara/recamara_id3.html\" class=\"desc_view ajax_right icon-search\"></a>\n													</div>\n											  	</div>\n											</div>\n											<img src=\"../../productos/recamara-400x250/recamara-3.jpg\" alt=\"cort-rec3\">\n										</div>\n									</div>\n								</div>\n								<div class=\"item\"><!-- oficina id3 -->\n									<div class=\"image\">\n										<div>\n											<div class=\"mask\">\n												<div>\n													<div class=\"name\">CORTINAS - OFICINA</div>\n													<div class=\"actions\">\n														<a href=\"../../productos-gallery/oficina/oficina_id3.html\" class=\"desc_view ajax_right icon-search\"></a>\n													</div>\n											  	</div>\n											</div>\n											<img src=\"../../productos/oficina-400x250/oficina-3.jpg\" alt=\"cort-ofi3\">\n										</div>\n									</div>\n								</div>\n								<div class=\"item\"><!-- cocina id3 -->\n									<div class=\"image\">\n										<div>\n											<div class=\"mask\">\n												<div>\n													<div class=\"name\">CORTINAS - COCINA</div>\n													<div class=\"actions\">\n														<a href=\"../../productos-gallery/cocina/cocina_id3.html\" class=\"desc_view ajax_right icon-search\"></a>\n													</div>\n											  	</div>\n											</div>\n											<img src=\"../../productos/cocina-400x250/cocina-3.jpg\" alt=\"cort-coc3\">\n										</div>\n									</div>\n								</div>\n								<div class=\"item\"><!-- sala id6 -->\n									<div class=\"image\">\n										<div>\n											<div class=\"mask\">\n												<div>\n													<div class=\"name\">CORTINAS - SALA</div>\n													<div class=\"actions\">\n														<a href=\"../../productos-gallery/sala/sala_id6.html\" class=\"desc_view ajax_right icon-search\"></a>\n													</div>\n											  	</div>\n											</div>\n											<img src=\"../../productos/sala-400x250/sala-6.jpg\" alt=\"cort-sal6\">\n										</div>\n									</div>\n								</div>\n								<div class=\"item\"><!-- comendor id4 -->\n									<div class=\"image\">\n										<div>\n											<div class=\"mask\">\n												<div>\n													<div class=\"name\">CORTINAS - COMEDOR</div>\n													<div class=\"actions\">\n														<a href=\"../../productos-gallery/comedor/comedor_id4.html\" class=\"desc_view ajax_right icon-search\"></a>\n													</div>\n											  	</div>\n											</div>\n											<img src=\"../../productos/comedor-400x250/comedor-4.jpg\" alt=\"cort-com4\">\n										</div>\n									</div>\n								</div>\n								<div class=\"item\"><!-- recamara id4 -->\n									<div class=\"image\">\n										<div>\n											<div class=\"mask\">\n												<div>\n													<div class=\"name\">CORTINAS - RECAMARA</div>\n													<div class=\"actions\">\n														<a href=\"../../productos-gallery/recamara/recamara_id4.html\" class=\"desc_view ajax_right icon-search\"></a>\n													</div>\n											  	</div>\n											</div>\n											<img src=\"../../productos/recamara-400x250/recamara-4.jpg\" alt=\"cort-rec4\">\n										</div>\n									</div>\n								</div>\n								<div class=\"item\"><!-- sala id2 -->\n									<div class=\"image\">\n										<div>\n											<div class=\"mask\">\n												<div>\n													<div class=\"name\">CORTINAS - SALA</div>\n													<div class=\"actions\">\n														<a href=\"../../productos-gallery/sala/sala_id2.html\" class=\"desc_view ajax_right icon-search\"></a>\n													</div>\n											  	</div>\n											</div>\n											<img src=\"../../productos/sala-400x250/sala-2.jpg\" alt=\"cort-sal2\">\n										</div>\n									</div>\n								</div>\n								<div class=\"item\"><!-- oficina id2 -->\n									<div class=\"image\">\n										<div>\n											<div class=\"mask\">\n												<div>\n													<div class=\"name\">CORTINAS - OFICINA</div>\n													<div class=\"actions\">\n														<a href=\"../../productos-gallery/oficina/oficina_id2.html\" class=\"desc_view ajax_right icon-search\"></a>\n													</div>\n											  	</div>\n											</div>\n											<img src=\"../../productos/oficina-400x250/oficina-2.jpg\" alt=\"cort-ofi2\">\n										</div>\n									</div>\n								</div>\n								<div class=\"item\"><!-- recamara id2 -->\n									<div class=\"image\">\n										<div>\n											<div class=\"mask\">\n												<div>\n													<div class=\"name\">CORTINAS - RECAMARA</div>\n													<div class=\"actions\">\n														<a href=\"../../productos-gallery/recamara/recamara_id2.html\" class=\"desc_view ajax_right icon-search\"></a>\n													</div>\n											  	</div>\n											</div>\n											<img src=\"../../productos/recamara-400x250/recamara-2.jpg\" alt=\"cort-rec2\">\n										</div>\n									</div>\n								</div>\n								<div class=\"item\"><!-- sala id4 -->\n									<div class=\"image\">\n										<div>\n											<div class=\"mask\">\n												<div>\n													<div class=\"name\">CORTINAS - SALA</div>\n													<div class=\"actions\">\n														<a href=\"../../productos-gallery/sala/sala_id4.html\" class=\"desc_view ajax_right icon-search\"></a>\n													</div>\n											  	</div>\n											</div>\n											<img src=\"../../productos/sala-400x250/sala-4.jpg\" alt=\"cort-sal4\">\n										</div>\n									</div>\n								</div>\n								<div class=\"item\"><!-- cocina id2 -->\n									<div class=\"image\">\n										<div>\n											<div class=\"mask\">\n												<div>\n													<div class=\"name\">CORTINAS - COCINA</div>\n													<div class=\"actions\">\n														<a href=\"../../productos-gallery/cocina/cocina_id2.html\" class=\"desc_view ajax_right icon-search\"></a>\n													</div>\n											  	</div>\n											</div>\n											<img src=\"../../productos/cocina-400x250/cocina-2.jpg\" alt=\"cort-coc2\">\n										</div>\n									</div>\n								</div>\n								<div class=\"item\"><!-- comendor id3 -->\n									<div class=\"image\">\n										<div>\n											<div class=\"mask\">\n												<div>\n													<div class=\"name\">CORTINAS - COMEDOR</div>\n													<div class=\"actions\">\n														<a href=\"../../productos-gallery/comedor/comedor_id3.html\" class=\"desc_view ajax_right icon-search\"></a>\n													</div>\n											  	</div>\n											</div>\n											<img src=\"../../productos/comedor-400x250/comedor-3.jpg\" alt=\"cort-com3\">\n										</div>\n									</div>\n								</div>\n								<div class=\"item\"><!-- sala id7 -->\n									<div class=\"image\">\n										<div>\n											<div class=\"mask\">\n												<div>\n													<div class=\"name\">CORTINAS - SALA</div>\n													<div class=\"actions\">\n														<a href=\"../../productos-gallery/sala/sala_id7.html\" class=\"desc_view ajax_right icon-search\"></a>\n													</div>\n											  	</div>\n											</div>\n											<img src=\"../../productos/sala-400x250/sala-7.jpg\" alt=\"cort-sal7\">\n										</div>\n									</div>\n								</div>\n								<div class=\"item\"><!-- oficina id5 -->\n									<div class=\"image\">\n										<div>\n											<div class=\"mask\">\n												<div>\n													<div class=\"name\">CORTINAS - OFICINA</div>\n													<div class=\"actions\">\n														<a href=\"../../productos-gallery/oficina/oficina_id5.html\" class=\"desc_view ajax_right icon-search\"></a>\n													</div>\n											  	</div>\n											</div>\n											<img src=\"../../productos/oficina-400x250/oficina-5.jpg\" alt=\"cort-ofi5\">\n										</div>\n									</div>\n								</div>\n								<div class=\"item\"><!-- cocina id6 -->\n									<div class=\"image\">\n										<div>\n											<div class=\"mask\">\n												<div>\n													<div class=\"name\">CORTINAS - COCINA</div>\n													<div class=\"actions\">\n														<a href=\"../../productos-gallery/cocina/cocina_id6.html\" class=\"desc_view ajax_right icon-search\"></a>\n													</div>\n											  	</div>\n											</div>\n											<img src=\"../../productos/cocina-400x250/cocina-6.jpg\" alt=\"cort-coc6\">\n										</div>\n									</div>\n								</div>\n								<div class=\"item\"><!-- recamara id6 -->\n									<div class=\"image\">\n										<div>\n											<div class=\"mask\">\n												<div>\n													<div class=\"name\">CORTINAS - RECAMARA</div>\n													<div class=\"actions\">\n														<a href=\"../../productos-gallery/recamara/recamara_id6.html\" class=\"desc_view ajax_right icon-search\"></a>\n													</div>\n											  	</div>\n											</div>\n											<img src=\"../../productos/recamara-400x250/recamara-6.jpg\" alt=\"cort-rec6\">\n										</div>\n									</div>\n								</div>\n								<div class=\"item\"><!-- comendor id2 -->\n									<div class=\"image\">\n										<div>\n											<div class=\"mask\">\n												<div>\n													<div class=\"name\">CORTINAS - COMEDOR</div>\n													<div class=\"actions\">\n														<a href=\"../../productos-gallery/comedor/comedor_id2.html\" class=\"desc_view ajax_right icon-search\"></a>\n													</div>\n											  	</div>\n											</div>\n											<img src=\"../../productos/comedor-400x250/comedor-2.jpg\" alt=\"cort-com2\">\n										</div>\n									</div>\n								</div>\n								<div class=\"item\"><!-- oficina id4 -->\n									<div class=\"image\">\n										<div>\n											<div class=\"mask\">\n												<div>\n													<div class=\"name\">CORTINAS - OFICINA</div>\n													<div class=\"actions\">\n														<a href=\"../../productos-gallery/oficina/oficina_id4.html\" class=\"desc_view ajax_right icon-search\"></a>\n													</div>\n											  	</div>\n											</div>\n											<img src=\"../../productos/oficina-400x250/oficina-4.jpg\" alt=\"cort-ofi4\">\n										</div>\n									</div>\n								</div>\n								<div class=\"item\"><!-- cocina id5 -->\n									<div class=\"image\">\n										<div>\n											<div class=\"mask\">\n												<div>\n													<div class=\"name\">CORTINAS - COCINA</div>\n													<div class=\"actions\">\n														<a href=\"../../productos-gallery/cocina/cocina_id5.html\" class=\"desc_view ajax_right icon-search\"></a>\n													</div>\n											  	</div>\n											</div>\n											<img src=\"../../productos/cocina-400x250/cocina-5.jpg\" alt=\"cort-coc5\">\n										</div>\n									</div>\n								</div>\n								<div class=\"item\"><!-- recamara id7 -->\n									<div class=\"image\">\n										<div>\n											<div class=\"mask\">\n												<div>\n													<div class=\"name\">CORTINAS - RECAMARA</div>\n													<div class=\"actions\">\n														<a href=\"../../productos-gallery/recamara/recamara_id7.html\" class=\"desc_view ajax_right icon-search\"></a>\n													</div>\n											  	</div>\n											</div>\n											<img src=\"../../productos/recamara-400x250/recamara-7.jpg\" alt=\"cort-rec7\">\n										</div>\n									</div>\n								</div>\n								<div class=\"item\"><!-- sala id5 -->\n									<div class=\"image\">\n										<div>\n											<div class=\"mask\">\n												<div>\n													<div class=\"name\">CORTINAS - SALA</div>\n													<div class=\"actions\">\n														<a href=\"../../productos-gallery/sala/sala_id5.html\" class=\"desc_view ajax_right icon-search\"></a>\n													</div>\n											  	</div>\n											</div>\n											<img src=\"../../productos/sala-400x250/sala-5.jpg\" alt=\"cort-sal5\">\n										</div>\n									</div>\n								</div>\n								<div class=\"item\"><!-- oficina id7 -->\n									<div class=\"image\">\n										<div>\n											<div class=\"mask\">\n												<div>\n													<div class=\"name\">CORTINAS - OFICINA</div>\n													<div class=\"actions\">\n														<a href=\"../../productos-gallery/oficina/oficina_id7.html\" class=\"desc_view ajax_right icon-search\"></a>\n													</div>\n											  	</div>\n											</div>\n											<img src=\"../../productos/oficina-400x250/oficina-7.jpg\" alt=\"cort-ofi7\">\n										</div>\n									</div>\n								</div>\n								<div class=\"item\"><!-- comendor id7 -->\n									<div class=\"image\">\n										<div>\n											<div class=\"mask\">\n												<div>\n													<div class=\"name\">CORTINAS - COMEDOR</div>\n													<div class=\"actions\">\n														<a href=\"../../productos-gallery/comedor/comedor_id7.html\" class=\"desc_view ajax_right icon-search\"></a>\n													</div>\n											  	</div>\n											</div>\n											<img src=\"../../productos/comedor-400x250/comedor-7.jpg\" alt=\"cort-com7\">\n										</div>\n									</div>\n								</div>\n								<div class=\"item\"><!-- cocina id7 -->\n									<div class=\"image\">\n										<div>\n											<div class=\"mask\">\n												<div>\n													<div class=\"name\">CORTINAS - COCINA</div>\n													<div class=\"actions\">\n														<a href=\"../../productos-gallery/cocina/cocina_id7.html\" class=\"desc_view ajax_right icon-search\"></a>\n													</div>\n											  	</div>\n											</div>\n											<img src=\"../../productos/cocina-400x250/cocina-7.jpg\" alt=\"cort-coc7\">\n										</div>\n									</div>\n								</div>\n								<div class=\"item\"><!-- oficina id6 -->\n									<div class=\"image\">\n										<div>\n											<div class=\"mask\">\n												<div>\n													<div class=\"name\">CORTINAS - OFICINA</div>\n													<div class=\"actions\">\n														<a href=\"../../productos-gallery/oficina/oficina_id6.html\" class=\"desc_view ajax_right icon-search\"></a>\n													</div>\n											  	</div>\n											</div>\n											<img src=\"../../productos/oficina-400x250/oficina-6.jpg\" alt=\"cort-ofi6\">\n										</div>\n									</div>\n								</div>\n								<div class=\"item\"><!-- recamara id5 -->\n									<div class=\"image\">\n										<div>\n											<div class=\"mask\">\n												<div>\n													<div class=\"name\">CORTINAS - RECAMARA</div>\n													<div class=\"actions\">\n														<a href=\"../../productos-gallery/recamara/recamara_id5.html\" class=\"desc_view ajax_right icon-search\"></a>\n													</div>\n											  	</div>\n											</div>\n											<img src=\"../../productos/recamara-400x250/recamara-5.jpg\" alt=\"cort-rec5\">\n										</div>\n									</div>\n								</div>\n								<div class=\"item\"><!-- recamara id8 -->\n									<div class=\"image\">\n										<div>\n											<div class=\"mask\">\n												<div>\n													<div class=\"name\">CORTINAS - RECAMARA</div>\n													<div class=\"actions\">\n														<a href=\"../../productos-gallery/recamara/recamara_id8.html\" class=\"desc_view ajax_right icon-search\"></a>\n													</div>\n											  	</div>\n											</div>\n											<img src=\"../../productos/recamara-400x250/recamara-8.jpg\" alt=\"cort-rec8\">\n										</div>\n									</div>\n								</div>\n								<div class=\"item\"><!-- comendor id5 -->\n									<div class=\"image\">\n										<div>\n											<div class=\"mask\">\n												<div>\n													<div class=\"name\">CORTINAS - COMEDOR</div>\n													<div class=\"actions\">\n														<a href=\"../../productos-gallery/comedor/comedor_id5.html\" class=\"desc_view ajax_right icon-search\"></a>\n													</div>\n											  	</div>\n											</div>\n											<img src=\"../../productos/comedor-400x250/comedor-5.jpg\" alt=\"cort-com5\">\n										</div>\n									</div>\n								</div>\n							<!-- end ready -->\n						</div>\n					</div>\n				</div>\n				<div id=\"ajax\">\n					<div>\n						<div id=\"slider\" class=\"flexslider\">\n						  	<ul class=\"slides\">\n							  	<li class=\"gallery_image\">\n									<a title=\"Dress\" href=\"../../productos/sala-400x250/sala-1.jpg\"><img alt=\"Dress\" title=\"Dress\" src=\"../../productos/sala-800x500/sala-1.jpg\"></a>\n								</li>\n							  	<li class=\"gallery_image\">\n									<a title=\"Dress\" href=\"../../productos/sala-400x250/sala-2.jpg\"><img alt=\"Dress\" title=\"Dress\" src=\"../../productos/sala-800x500/sala-2.jpg\"></a>\n								</li>\n							  	<li class=\"gallery_image\">\n									<a title=\"Dress\" href=\"../../productos/sala-400x250/sala-3.jpg\"><img alt=\"Dress\" title=\"Dress\" src=\"../../productos/sala-800x500/sala-3.jpg\"></a>\n								</li>\n							  	<li class=\"gallery_image\">\n									<a title=\"Dress\" href=\"../../productos/sala-400x250/sala-4.jpg\"><img alt=\"Dress\" title=\"Dress\" src=\"../../productos/sala-800x500/sala-4.jpg\"></a>\n								</li>\n								<li class=\"gallery_image\">\n									<a title=\"Dress\" href=\"../../productos/sala-400x250/sala-5.jpg\"><img alt=\"Dress\" title=\"Dress\" src=\"../../productos/sala-800x500/sala-5.jpg\"></a>\n								</li>\n								<li class=\"gallery_image\">\n									<a title=\"Dress\" href=\"../../productos/sala-400x250/sala-6.jpg\"><img alt=\"Dress\" title=\"Dress\" src=\"../../productos/sala-800x500/sala-6.jpg\"></a>\n								</li>\n								<li class=\"gallery_image\">\n									<a title=\"Dress\" href=\"../../productos/sala-400x250/sala-7.jpg\"><img alt=\"Dress\" title=\"Dress\" src=\"../../productos/sala-800x500/sala-7.jpg\"></a>\n								</li>\n						  	</ul>\n						</div>\n						<div id=\"carousel\" class=\"flexslider\">\n						  	<ul class=\"slides\">\n							  	<li class=\"gallery_image\">\n									<a title=\"Dress\" href=\"../../productos/sala-400x250/sala-1.jpg\"><img alt=\"Dress\" title=\"Dress\" src=\"../../productos/sala-800x500/sala-1.jpg\"></a>\n								</li>\n							  	<li class=\"gallery_image\">\n									<a title=\"Dress\" href=\"../../productos/sala-400x250/sala-2.jpg\"><img alt=\"Dress\" title=\"Dress\" src=\"../../productos/sala-800x500/sala-2.jpg\"></a>\n								</li>\n							  	<li class=\"gallery_image\">\n									<a title=\"Dress\" href=\"../../productos/sala-400x250/sala-3.jpg\"><img alt=\"Dress\" title=\"Dress\" src=\"../../productos/sala-800x500/sala-3.jpg\"></a>\n								</li>\n							  	<li class=\"gallery_image\">\n									<a title=\"Dress\" href=\"../../productos/sala-400x250/sala-4.jpg\"><img alt=\"Dress\" title=\"Dress\" src=\"../../productos/sala-800x500/sala-4.jpg\"></a>\n								</li>\n								<li class=\"gallery_image\">\n									<a title=\"Dress\" href=\"../../productos/sala-400x250/sala-5.jpg\"><img alt=\"Dress\" title=\"Dress\" src=\"../../productos/sala-800x500/sala-5.jpg\"></a>\n								</li>\n								<li class=\"gallery_image\">\n									<a title=\"Dress\" href=\"../../productos/sala-400x250/sala-6.jpg\"><img alt=\"Dress\" title=\"Dress\" src=\"../../productos/sala-800x500/sala-6.jpg\"></a>\n								</li>\n								<li class=\"gallery_image\">\n									<a title=\"Dress\" href=\"../../productos/sala-400x250/sala-7.jpg\"><img alt=\"Dress\" title=\"Dress\" src=\"../../productos/sala-800x500/sala-7.jpg\"></a>\n								</li>\n						  	</ul>\n						</div>\n\n						<div class=\"product-info\">\n\n							<ul class=\"breadcrumb\">\n								<li><a href=\"../../\">Inicio</a></li>\n								<li class=\"\">Caortinas para Sala</li>\n								<li class=\"active\">Sala 1</li>\n							</ul>\n\n							<div class=\"row\">\n								<div class=\"col-md-12\">\n									<!--<a class=\"close\" href=\"#\">&#61453;</a>-->\n									<div class=\"page-header\">\n										<h1>CORTINAS PARA SALA</h1>\n									</div>\n								</div>\n							</div>\n							<!--\n							<p class=\"desc\">\n								La persiana enrollable es confiable, precisa y con entradas reducidas de luz.\n							</p>\n							<p class=\"desc\">\n								Existe gran variedad de telas, colores y texturas, para diferentes necesidades.\n							</p>\n							<p class=\"desc\">\n								Telas que nos bloquea la luz hacia el interior dándonos obscuridad, recomendada en habitaciones, salas de proyecciones, en áreas que se necesita bloquear el sol.\n							</p>\n							<p class=\"desc\">\n								Esto nos permite que este producto tenga aceptación en cualquier lugar casa, oficinas, empresa, institución etc.\n							</p>\n							<p class=\"desc\">\n								Este producto se puede motorizar ya sea con un sistema alámbrico, esto quiere decir que con un apagador se puede manejar la cortina o inalámbrico, se manejaría con un pequeño control remoto, como el del televisor.\n							</p>-->",
+			"<ul class=\"slides\">\n							  	<li class=\"gallery_image\">\n									<a title=\"Dress\" href=\"../../productos/oficina-400x250/oficina-2.jpg\"><img alt=\"Dress\" title=\"Dress\" src=\"../../productos/oficina-800x500/oficina-2.jpg\"></a>\n								</li>\n							  	<li class=\"gallery_image\">\n									<a title=\"Dress\" href=\"../../productos/oficina-400x250/oficina-3.jpg\"><img alt=\"Dress\" title=\"Dress\" src=\"../../productos/oficina-800x500/oficina-3.jpg\"></a>\n								</li>\n							  	<li class=\"gallery_image\">\n									<a title=\"Dress\" href=\"../../productos/oficina-400x250/oficina-4.jpg\"><img alt=\"Dress\" title=\"Dress\" src=\"../../productos/oficina-800x500/oficina-4.jpg\"></a>\n								</li>\n								<li class=\"gallery_image\">\n									<a title=\"Dress\" href=\"../../productos/oficina-400x250/oficina-5.jpg\"><img alt=\"Dress\" title=\"Dress\" src=\"../../productos/oficina-800x500/oficina-5.jpg\"></a>\n								</li>\n								<li class=\"gallery_image\">\n									<a title=\"Dress\" href=\"../../productos/oficina-400x250/oficina-6.jpg\"><img alt=\"Dress\" title=\"Dress\" src=\"../../productos/oficina-800x500/oficina-6.jpg\"></a>\n								</li>\n								<li class=\"gallery_image\">\n									<a title=\"Dress\" href=\"../../productos/oficina-400x250/oficina-7.jpg\"><img alt=\"Dress\" title=\"Dress\" src=\"../../productos/oficina-800x500/oficina-7.jpg\"></a>\n								</li>\n							  	<li class=\"gallery_image\">\n									<a title=\"Dress\" href=\"../../productos/oficina-400x250/oficina-1.jpg\"><img alt=\"Dress\" title=\"Dress\" src=\"../../productos/oficina-800x500/oficina-1.jpg\"></a>\n								</li>\n						  	</ul>\n						</div>\n						<div id=\"carousel\" class=\"flexslider\">\n						  	<ul class=\"slides\">\n							  	<li class=\"gallery_image\">\n									<a title=\"Dress\" href=\"../../productos/oficina-400x250/oficina-2.jpg\"><img alt=\"Dress\" title=\"Dress\" src=\"../../productos/oficina-800x500/oficina-2.jpg\"></a>\n								</li>\n							  	<li class=\"gallery_image\">\n									<a title=\"Dress\" href=\"../../productos/oficina-400x250/oficina-3.jpg\"><img alt=\"Dress\" title=\"Dress\" src=\"../../productos/oficina-800x500/oficina-3.jpg\"></a>\n								</li>\n							  	<li class=\"gallery_image\">\n									<a title=\"Dress\" href=\"../../productos/oficina-400x250/oficina-4.jpg\"><img alt=\"Dress\" title=\"Dress\" src=\"../../productos/oficina-800x500/oficina-4.jpg\"></a>\n								</li>\n								<li class=\"gallery_image\">\n									<a title=\"Dress\" href=\"../../productos/oficina-400x250/oficina-5.jpg\"><img alt=\"Dress\" title=\"Dress\" src=\"../../productos/oficina-800x500/oficina-5.jpg\"></a>\n								</li>\n								<li class=\"gallery_image\">\n									<a title=\"Dress\" href=\"../../productos/oficina-400x250/oficina-6.jpg\"><img alt=\"Dress\" title=\"Dress\" src=\"../../productos/oficina-800x500/oficina-6.jpg\"></a>\n								</li>\n								<li class=\"gallery_image\">\n									<a title=\"Dress\" href=\"../../productos/oficina-400x250/oficina-7.jpg\"><img alt=\"Dress\" title=\"Dress\" src=\"../../productos/oficina-800x500/oficina-7.jpg\"></a>\n								</li>\n							  	<li class=\"gallery_image\">\n									<a title=\"Dress\" href=\"../../productos/oficina-400x250/oficina-1.jpg\"><img alt=\"Dress\" title=\"Dress\" src=\"../../productos/oficina-800x500/oficina-1.jpg\"></a>\n								</li>\n						  	</ul>\n						</div>\n\n						<div class=\"product-info\">\n\n							<ul class=\"breadcrumb\">\n								<li><a href=\"../../\">Inicio</a></li>\n								<li class=\"\">Caortinas para Oficina</li>\n								<li class=\"active\">Oficina 2</li>\n							</ul>\n\n							<div class=\"row\">\n								<div class=\"col-md-12\">\n									<!--<a class=\"close\" href=\"#\">&#61453;</a>-->\n									<div class=\"page-header\">\n										<h1>CORTINAS PARA OFICINA</h1>\n									</div>\n								</div>\n							</div>\n							<!--\n							<p class=\"desc\">\n								La persiana enrollable es confiable, precisa y con entradas reducidas de luz.\n							</p>\n							<p class=\"desc\">\n								Existe gran variedad de telas, colores y texturas, para diferentes necesidades.\n							</p>\n							<p class=\"desc\">\n								Telas que nos bloquea la luz hacia el interior dándonos obscuridad, recomendada en habitaciones, salas de proyecciones, en áreas que se necesita bloquear el sol.\n							</p>\n							<p class=\"desc\">\n								Esto nos permite que este producto tenga aceptación en cualquier lugar casa, oficinas, empresa, institución etc.\n							</p>\n							<p class=\"desc\">\n								Este producto se puede motorizar ya sea con un sistema alámbrico, esto quiere decir que con un apagador se puede manejar la cortina o inalámbrico, se manejaría con un pequeño control remoto, como el del televisor.\n							</p>-->",
+			"<ul class=\"dropdown-menu\">\n											<li class=\"\"><a href=\"cocina_id1.html\" class=\"ajax_right\">Cocina 1</a></li>\n											<li class=\"active\"><a href=\"cocina_id2.html\" class=\"ajax_right\">Cocina 2</a></li>\n											<li class=\"\"><a href=\"../cocina/cocina_id3.html\" class=\"ajax_right\">Cocina 3</a></li>\n											<li class=\"\"><a href=\"../cocina/cocina_id4.html\" class=\"ajax_right\">Cocina 4</a></li>\n											<li class=\"\"><a href=\"../cocina/cocina_id5.html\" class=\"ajax_right\">Cocina 5</a></li>\n											<li class=\"\"><a href=\"../cocina/cocina_id6.html\" class=\"ajax_right\">Cocina 6</a></li>\n											<li class=\"\"><a href=\"../cocina/cocina_id7.html\" class=\"ajax_right\">Cocina 7</a></li>\n										</ul>\n									</li>\n									<li class=\"dropdown-submenu\">\n										<a data-toggle=\"dropdown\" class=\"dropdown-toggle\">Cortinas para Comedor</a>\n										<ul class=\"dropdown-menu\">\n											<li class=\"\"><a href=\"../comedor/comedor_id1.html\" class=\"ajax_right\">Comedor 1</a></li>\n											<li class=\"\"><a href=\"../comedor/comedor_id2.html\" class=\"ajax_right\">Comedor 2</a></li>\n											<li class=\"\"><a href=\"../comedor/comedor_id3.html\" class=\"ajax_right\">Comedor 3</a></li>\n											<li class=\"\"><a href=\"../comedor/comedor_id4.html\" class=\"ajax_right\">Comedor 4</a></li>\n											<li class=\"\"><a href=\"../comedor/comedor_id5.html\" class=\"ajax_right\">Comedor 5</a></li>\n											<li class=\"\"><a href=\"../comedor/comedor_id6.html\" class=\"ajax_right\">Comedor 6</a></li>\n											<li class=\"\"><a href=\"../comedor/comedor_id7.html\" class=\"ajax_right\">Comedor 7</a></li>\n										</ul>\n									</li>\n									<li class=\"dropdown-submenu\">\n										<a data-toggle=\"dropdown\" class=\"dropdown-toggle\">Cortinas para Oficina</a>\n										<ul class=\"dropdown-menu\">\n											<li class=\"\"><a href=\"oficina_id1.html\" class=\"ajax_right\">Oficina 1</a></li>\n											<li class=\"\"><a href=\"oficina_id2.html\" class=\"ajax_right\">Oficina 2</a></li>\n											<li class=\"\"><a href=\"oficina_id3.html\" class=\"ajax_right\">Oficina 3</a></li>\n											<li class=\"\"><a href=\"oficina_id4.html\" class=\"ajax_right\">Oficina 4</a></li>\n											<li class=\"\"><a href=\"oficina_id5.html\" class=\"ajax_right\">Oficina 5</a></li>\n											<li class=\"\"><a href=\"oficina_id6.html\" class=\"ajax_right\">Oficina 6</a></li>\n											<li class=\"\"><a href=\"oficina_id7.html\" class=\"ajax_right\">Oficina 7</a></li>",
+			"<div class=\"fullscreen_block hided page-container\">",
+			"Periférico Paseo de la Republica 3169 Colonia Las Américas<br/>\n                Morelia, Michoacán, C.P. 58270\n                Tel. 01-(443)-500-53-00",
+			"not_found",
+			"rgb(213,123,27)",
+			"#08416B",
+			"/result\"",
+			"isDecimalKP",
+			"'",
+			"-round",
+			"_round",
+			"orderBy"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 24,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "sx4-sedan.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 190331,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3692,
+								3692
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 504.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 25,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "sx4-crossover.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 135154,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3723,
+								3723
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 403.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 24,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "swift.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 153054,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3714,
+								3714
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 572.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 23,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "swift-sport.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 125867,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3741,
+								3741
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 625.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 22,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "s-cross.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 177099,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3696,
+								3696
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 594.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "promociones.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 29493,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2944,
+								2944
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 491.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "mustache.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22126,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2758,
+								2758
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 68.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "legales.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23006,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2839,
+								2839
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 60.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "kizashi.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 157852,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3739,
+								3739
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 340.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 32748,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2476,
+								2476
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 68.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "grand-vitara.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 165389,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3708,
+								3708
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 369.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "contacto.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 34723,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2845,
+								2845
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 152.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "concesionarias.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 41098,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2853,
+								2853
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 145.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "ciaz.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 95786,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3718,
+								3718
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 347.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "catalogo.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 32944,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2852,
+								2852
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 152.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "aviso-privacidad.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 29419,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2844,
+								2844
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 63.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "razones/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 30080,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2865,
+								2865
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 130.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "grupo/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23108,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2788,
+								2788
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "garantia-suzuki/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 39887,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2788,
+								2788
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "concesionarias/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 41269,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2886,
+								2886
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "concesionarias/suzuki-colima.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 41265,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2886,
+								2886
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "concesionarias/suzuki-lopez-mateos.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 41268,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2886,
+								2886
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "concesionarias/suzuki-vallarta.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 41269,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2886,
+								2886
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "api/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22513,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1174,
+								1174
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 24,
+					"file": "contacto.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 3017,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 725.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 25,
+					"file": "concesionarias/suzuki-morelia.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 41255,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2881,
+								2881
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "suzukivallarta.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"process_login.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Applications/MAMP/htdocs/suzuki-morelia/suzuki-morelia.sublime-project"
+			],
+			[
+				"dkh",
+				"~/Documents/projects/dkh_crm.sublime-project"
+			],
+			[
+				"VEX",
+				"~/Documents/projects/vex_crm.sublime-project"
+			],
+			[
+				"dkh_",
+				"~/Documents/projects/dkh_crm.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 382.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}
