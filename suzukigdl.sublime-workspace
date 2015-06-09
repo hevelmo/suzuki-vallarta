@@ -519,13 +519,6 @@
 	},
 	"buffers":
 	[
-		{
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -578,6 +571,11 @@
 	],
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/suzuki-vallarta/index.html",
+		"/Applications/MAMP/htdocs/suzuki-morelia/index.html",
+		"/Applications/MAMP/htdocs/suzuki-lopez-mateos/index.html",
+		"/Applications/MAMP/htdocs/suzuki_colima/index.html",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/index.html",
 		"/Applications/MAMP/htdocs/suzuki-vallarta/suzukigdl.sublime-project",
 		"/Applications/MAMP/htdocs/suzuki-vallarta/sx4-sedan.html",
 		"/Applications/MAMP/htdocs/suzuki-vallarta/sx4-crossover.html",
@@ -588,7 +586,6 @@
 		"/Applications/MAMP/htdocs/suzuki-vallarta/mustache.html",
 		"/Applications/MAMP/htdocs/suzuki-vallarta/legales.html",
 		"/Applications/MAMP/htdocs/suzuki-vallarta/kizashi.html",
-		"/Applications/MAMP/htdocs/suzuki-vallarta/index.html",
 		"/Applications/MAMP/htdocs/suzuki-vallarta/grand-vitara.html",
 		"/Applications/MAMP/htdocs/suzuki-vallarta/contacto.html",
 		"/Applications/MAMP/htdocs/suzuki-vallarta/concesionarias.html",
@@ -652,7 +649,6 @@
 		"/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/mustache.html",
 		"/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/legales.html",
 		"/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/kizashi.html",
-		"/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/index.html",
 		"/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/grand-vitara.html",
 		"/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/concesionarias.html",
 		"/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/api/index.html",
@@ -702,10 +698,7 @@
 		"/Applications/MAMP/htdocs/suzuki-gdl/suzukimorelia/aviso-privacidad.html",
 		"/Applications/MAMP/htdocs/suzuki-gdl/suzukimorelia/contacto.html",
 		"/Applications/MAMP/htdocs/suzuki-gdl/suzukimorelia/grand-vitara.html",
-		"/Applications/MAMP/htdocs/suzuki-gdl/suzukimorelia/index.html",
-		"/Applications/MAMP/htdocs/suzuki-gdl/suzukimorelia/kizashi.html",
-		"/Applications/MAMP/htdocs/suzuki-gdl/suzukimorelia/legales.html",
-		"/Applications/MAMP/htdocs/suzuki-gdl/suzukimorelia/mustache.html"
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukimorelia/index.html"
 	],
 	"find":
 	{
@@ -920,36 +913,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -1016,7 +981,7 @@
 		[
 			[
 				"",
-				"/Applications/MAMP/htdocs/suzuki-morelia/suzuki-morelia.sublime-project"
+				"~/Desktop/projects/landrover.sublime-project"
 			],
 			[
 				"dkh",
