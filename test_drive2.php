@@ -62,7 +62,7 @@
 	$mail_origin = $mail;
 
 	//$to = 'heriberto@medigraf.com.mx';
-	$to = 'gerenteventas@suzukivallarta.com.mx';
+	$to = 'mercadotecnia@suzuki-lm.com.mx';
 	$subject = "Solicitud de prueba de manejo - Suzuki Vallarta "."\n\n";
 
 	$message = "Asunto: Solicitud de prueba de manejo\n\n";
@@ -76,7 +76,7 @@
 		$message .= "Desea recibir noticias: " .$suscripcion. "\n";
 
 	$headers = "From: ". $nombre ." ". $apellido ."<" . $mail_origin . ">"."\r\n";
-	$headers .= "Bcc: cold_space@hotmail.com";
+	$headers .= "Bcc: ";
 
 	$sent =  mail($to,$subject,$message,$headers);
 	if($sent) {

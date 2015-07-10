@@ -523,7 +523,7 @@
 			"file": "api/index.html",
 			"settings":
 			{
-				"buffer_size": 23206,
+				"buffer_size": 23208,
 				"line_ending": "Unix"
 			}
 		},
@@ -531,7 +531,7 @@
 			"file": "concesionarias/index.html",
 			"settings":
 			{
-				"buffer_size": 41962,
+				"buffer_size": 41964,
 				"line_ending": "Unix"
 			}
 		},
@@ -539,7 +539,7 @@
 			"file": "concesionarias/suzuki-colima.html",
 			"settings":
 			{
-				"buffer_size": 41958,
+				"buffer_size": 41960,
 				"line_ending": "Unix"
 			}
 		},
@@ -547,7 +547,7 @@
 			"file": "concesionarias/suzuki-lopez-mateos.html",
 			"settings":
 			{
-				"buffer_size": 41961,
+				"buffer_size": 41963,
 				"line_ending": "Unix"
 			}
 		},
@@ -555,7 +555,7 @@
 			"file": "concesionarias/suzuki-morelia.html",
 			"settings":
 			{
-				"buffer_size": 41948,
+				"buffer_size": 41950,
 				"line_ending": "Unix"
 			}
 		},
@@ -563,7 +563,7 @@
 			"file": "concesionarias/suzuki-vallarta.html",
 			"settings":
 			{
-				"buffer_size": 41962,
+				"buffer_size": 41964,
 				"line_ending": "Unix"
 			}
 		},
@@ -571,7 +571,7 @@
 			"file": "garantia-suzuki/index.html",
 			"settings":
 			{
-				"buffer_size": 40580,
+				"buffer_size": 40582,
 				"line_ending": "Unix"
 			}
 		},
@@ -579,7 +579,7 @@
 			"file": "grupo/index.html",
 			"settings":
 			{
-				"buffer_size": 23801,
+				"buffer_size": 23803,
 				"line_ending": "Unix"
 			}
 		},
@@ -587,7 +587,7 @@
 			"file": "razones/index.html",
 			"settings":
 			{
-				"buffer_size": 30773,
+				"buffer_size": 30775,
 				"line_ending": "Unix"
 			}
 		},
@@ -595,7 +595,7 @@
 			"file": "aviso-privacidad.html",
 			"settings":
 			{
-				"buffer_size": 30112,
+				"buffer_size": 30114,
 				"line_ending": "Unix"
 			}
 		},
@@ -603,7 +603,7 @@
 			"file": "catalogo.html",
 			"settings":
 			{
-				"buffer_size": 33637,
+				"buffer_size": 33639,
 				"line_ending": "Unix"
 			}
 		},
@@ -611,7 +611,7 @@
 			"file": "ciaz.html",
 			"settings":
 			{
-				"buffer_size": 96479,
+				"buffer_size": 96481,
 				"line_ending": "Unix"
 			}
 		},
@@ -619,7 +619,7 @@
 			"file": "concesionarias.html",
 			"settings":
 			{
-				"buffer_size": 41791,
+				"buffer_size": 41793,
 				"line_ending": "Unix"
 			}
 		},
@@ -627,7 +627,7 @@
 			"file": "contacto.html",
 			"settings":
 			{
-				"buffer_size": 35416,
+				"buffer_size": 35418,
 				"line_ending": "Unix"
 			}
 		},
@@ -635,7 +635,7 @@
 			"file": "grand-vitara.html",
 			"settings":
 			{
-				"buffer_size": 166082,
+				"buffer_size": 166084,
 				"line_ending": "Unix"
 			}
 		},
@@ -643,7 +643,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 33441,
+				"buffer_size": 34274,
 				"line_ending": "Unix"
 			}
 		},
@@ -651,7 +651,7 @@
 			"file": "kizashi.html",
 			"settings":
 			{
-				"buffer_size": 158545,
+				"buffer_size": 158547,
 				"line_ending": "Unix"
 			}
 		},
@@ -659,7 +659,7 @@
 			"file": "legales.html",
 			"settings":
 			{
-				"buffer_size": 23699,
+				"buffer_size": 23701,
 				"line_ending": "Unix"
 			}
 		},
@@ -667,7 +667,7 @@
 			"file": "mustache.html",
 			"settings":
 			{
-				"buffer_size": 22819,
+				"buffer_size": 22821,
 				"line_ending": "Unix"
 			}
 		},
@@ -675,7 +675,7 @@
 			"file": "promociones.html",
 			"settings":
 			{
-				"buffer_size": 30186,
+				"buffer_size": 30188,
 				"line_ending": "Unix"
 			}
 		},
@@ -683,7 +683,7 @@
 			"file": "s-cross.html",
 			"settings":
 			{
-				"buffer_size": 177792,
+				"buffer_size": 177794,
 				"line_ending": "Unix"
 			}
 		},
@@ -691,7 +691,7 @@
 			"file": "swift-sport.html",
 			"settings":
 			{
-				"buffer_size": 126560,
+				"buffer_size": 126562,
 				"line_ending": "Unix"
 			}
 		},
@@ -699,7 +699,7 @@
 			"file": "swift.html",
 			"settings":
 			{
-				"buffer_size": 153747,
+				"buffer_size": 153749,
 				"line_ending": "Unix"
 			}
 		},
@@ -707,7 +707,7 @@
 			"file": "sx4-crossover.html",
 			"settings":
 			{
-				"buffer_size": 135847,
+				"buffer_size": 135849,
 				"line_ending": "Unix"
 			}
 		},
@@ -715,7 +715,7 @@
 			"file": "sx4-sedan.html",
 			"settings":
 			{
-				"buffer_size": 191024,
+				"buffer_size": 191026,
 				"line_ending": "Unix"
 			}
 		}
@@ -1118,7 +1118,7 @@
 	"groups":
 	[
 		{
-			"selected": 24,
+			"selected": 15,
 			"sheets":
 			[
 				{
@@ -1127,15 +1127,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 23206,
+						"buffer_size": 23208,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								23185,
-								23185
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1157,15 +1157,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 41962,
+						"buffer_size": 41964,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								41941,
-								41941
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1187,15 +1187,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 41958,
+						"buffer_size": 41960,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								41937,
-								41937
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1217,15 +1217,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 41961,
+						"buffer_size": 41963,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								41940,
-								41940
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1247,15 +1247,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 41948,
+						"buffer_size": 41950,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								41927,
-								41927
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1277,15 +1277,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 41962,
+						"buffer_size": 41964,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								41941,
-								41941
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1307,15 +1307,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 40580,
+						"buffer_size": 40582,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								40559,
-								40559
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1337,15 +1337,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 23801,
+						"buffer_size": 23803,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								23780,
-								23780
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1367,15 +1367,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 30773,
+						"buffer_size": 30775,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								30752,
-								30752
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1397,15 +1397,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 30112,
+						"buffer_size": 30114,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								30091,
-								30091
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1427,15 +1427,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 33637,
+						"buffer_size": 33639,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								33616,
-								33616
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1457,15 +1457,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 96479,
+						"buffer_size": 96481,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								96458,
-								96458
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1487,15 +1487,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 41791,
+						"buffer_size": 41793,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								41770,
-								41770
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1517,15 +1517,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 35416,
+						"buffer_size": 35418,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								35395,
-								35395
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1547,15 +1547,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 166082,
+						"buffer_size": 166084,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								166061,
-								166061
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1577,15 +1577,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 33441,
+						"buffer_size": 34274,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								33420,
-								33420
+								9986,
+								9986
 							]
 						],
 						"settings":
@@ -1595,10 +1595,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 8673.0,
+						"translation.y": 2852.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 9,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -1607,15 +1607,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 158545,
+						"buffer_size": 158547,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								158524,
-								158524
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1628,7 +1628,7 @@
 						"translation.y": 41553.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 8,
+					"stack_index": 9,
 					"type": "text"
 				},
 				{
@@ -1637,15 +1637,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 23699,
+						"buffer_size": 23701,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								23678,
-								23678
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1658,7 +1658,7 @@
 						"translation.y": 6153.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 8,
 					"type": "text"
 				},
 				{
@@ -1667,15 +1667,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 22819,
+						"buffer_size": 22821,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								22798,
-								22798
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1688,7 +1688,7 @@
 						"translation.y": 5933.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 7,
 					"type": "text"
 				},
 				{
@@ -1697,15 +1697,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 30186,
+						"buffer_size": 30188,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								30165,
-								30165
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1718,7 +1718,7 @@
 						"translation.y": 7933.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
@@ -1727,15 +1727,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 177792,
+						"buffer_size": 177794,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								177771,
-								177771
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1748,7 +1748,7 @@
 						"translation.y": 46693.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
@@ -1757,15 +1757,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 126560,
+						"buffer_size": 126562,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								126539,
-								126539
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1778,7 +1778,7 @@
 						"translation.y": 33453.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
@@ -1787,15 +1787,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 153747,
+						"buffer_size": 153749,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								153726,
-								153726
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1808,7 +1808,7 @@
 						"translation.y": 40293.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
@@ -1817,15 +1817,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 135847,
+						"buffer_size": 135849,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								135826,
-								135826
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1838,7 +1838,7 @@
 						"translation.y": 36073.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -1847,7 +1847,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 191024,
+						"buffer_size": 191026,
 						"regions":
 						{
 						},
@@ -1868,7 +1868,7 @@
 						"translation.y": 113.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -1937,7 +1937,7 @@
 		[
 			[
 				"",
-				"/Applications/MAMP/htdocs/suzuki-morelia/suzuki-morelia.sublime-project"
+				"/Applications/MAMP/htdocs/suzuki_colima/suzuki-colima.sublime-project"
 			],
 			[
 				"dkh",

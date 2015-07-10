@@ -519,6 +519,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/index.html",
+			"settings":
+			{
+				"buffer_size": 34400,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -567,7 +575,9 @@
 	},
 	"expanded_folders":
 	[
-		"/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl"
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/scripts",
+		"/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/scripts/suzuki"
 	],
 	"file_history":
 	[
@@ -913,8 +923,39 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/Applications/MAMP/htdocs/suzuki-gdl/suzukigdl/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 34400,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10061,
+								10061
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2971.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -981,7 +1022,7 @@
 		[
 			[
 				"",
-				"~/Desktop/projects/landrover.sublime-project"
+				"/Applications/MAMP/htdocs/directexpress/direct_express.sublime-project"
 			],
 			[
 				"dkh",
