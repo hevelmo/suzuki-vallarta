@@ -137,8 +137,14 @@ $(document).ready(function(){
         display: 'block'
     });
 
-    $("#home-scross").on('click', function() {
+    /*$("#home-scross").on('click', function() {
         document.location = "/ciaz.html"
+    });*/
+    $("#home-swift-2016").on('click', function() {
+        document.location = "/swift.html"
+    });
+    $("#home-kizashi-2016").on('click', function() {
+        document.location = "/kizashi.html"
     });
     /*$("#home-scross").hover(function(){
         flash.stop().animate({opacity:1},300);

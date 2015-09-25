@@ -1109,10 +1109,12 @@ $(document).ready( function(){
                         $input_car_text = $('#fr_model_car');
 
                     fuh_data.key = k;
-                    var anio = '2015';
-//                    if(car_data.key == 'swift-sport'){
-//                        anio = '2013';
-//                    }
+                    var anio = '2016';
+                    if(car_data.key == 'grand-vitara'){
+                        anio = '2015';
+                    } else if (car_data.key == 's-cross'){
+                        anio = '2015';
+                    }
                     fuh_data.name = car_data.name + ' ' + anio;
 
                     $("#car_engagement_slider").slider({value: 20}) ;
